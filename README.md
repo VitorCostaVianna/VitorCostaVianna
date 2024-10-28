@@ -73,7 +73,6 @@
 <br clear="both">
 
 ###
-
 <img src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/snake.svg" alt="Snake animation" />
 
 ###
