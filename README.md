@@ -72,6 +72,12 @@
 
 <h3 align="left">🔥  Projects :</h3>
 
+<div>
+  <a href="https://github.com/VitorCostaVianna/magalums.git"> Magalu Microservice</a>
+  <a href="https://github.com/VitorCostaVianna/Spotify-API-Integration-with-OpenFeign.git">Spotify-API-Integration-with-OpenFeign</a>
+  
+</div>
+
 ###
 
 
