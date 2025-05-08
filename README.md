@@ -73,14 +73,10 @@
 <h3 align="left">🔥  Projects :</h3>
 
 <div>
-
-  <a href="https://github.com/VitorCostaVianna/SpringAI-chat-recipe-image.git"> SpringAI-chat-recipe-image (OpenAI) </a>
-  <a href="https://github.com/VitorCostaVianna/Investment-Aggregator">Investment Aggregator - Brapi API</a>
-  <a href="https://github.com/VitorCostaVianna/magalums.git"> Magalu Microservice</a>
-  <br>
-  <a href="https://github.com/VitorCostaVianna/Spotify-API-Integration-with-OpenFeign.git">Spotify-API-Integration-with-OpenFeign</a>
-  <br>
-  
+  - <a href="https://github.com/VitorCostaVianna/SpringAI-chat-recipe-image.git"> SpringAI-chat-recipe-image (OpenAI) </a>
+  - <a href="https://github.com/VitorCostaVianna/Investment-Aggregator">Investment Aggregator - Brapi API</a>
+  - <a href="https://github.com/VitorCostaVianna/magalums.git"> Magalu Microservice</a>
+  - <a href="https://github.com/VitorCostaVianna/Spotify-API-Integration-with-OpenFeign.git">Spotify-API-Integration-with-OpenFeign</a>
 </div>
 
 ###
