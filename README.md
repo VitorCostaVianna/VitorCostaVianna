@@ -16,11 +16,13 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Vitor! A passionate Software Engineer student from Brazil.
+Software Engineering student at PUC Minas and passionate about solving real-world problems through technology. Currently, I am a Software Engineering Intern at Inter, focusing on improving and maintaining process workflows using the Sydle platform with JavaScript.
 
-  - 🌱 I’m currently studying Software Engineer at Puc Minas 
+On a daily basis, I work directly with various technologies and concepts, including SQS queues, partner integrations, APIs, and JSON manipulation.
 
-  - 🔭 I am looking for my first job opportunity.
+My background includes professional and hands-on experience in Full Stack development. In previous projects, I worked on building and refactoring REST APIs and database modeling. I have a strong commitment to performance: in a recent freelance project, I developed an application using React and Vite that achieved a score of 92 on Google PageSpeed Insights using advanced optimization techniques.
+
+🛠 Core Stack: JavaScript, Java, Spring Boot, Spring Cloud, BPM (Business Process Management), REST APIs, and AWS SQS. Interests: Software Architecture, Microservices, and Process Automation.
 </p>
 
 
