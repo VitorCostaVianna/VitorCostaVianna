@@ -128,6 +128,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorCostaVianna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&title_color=white&text_color=9f9f9f" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/snake.svg" alt="Snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
+</picture>
+
+###
