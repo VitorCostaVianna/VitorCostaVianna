@@ -20,7 +20,7 @@
   <br/><br/>
   On a daily basis, I work directly with various technologies including <b>SQS queues, partner integrations, APIs, and JSON manipulation</b>. My background includes professional and hands-on experience in Full Stack development, building and refactoring REST APIs, and modeling databases.
   <br/><br/>
-  🚀 <b>Focus:</b> Performance & Scalability. I recently developed a React application that achieved a score of <b>92 on Google PageSpeed Insights</b>.
+  🚀 <b>🛠 Stack Principal:</b> JavaScript, Java, Spring Boot, Spring Cloud, BPM (Business Process Management), APIs REST e AWS SQS. Interesses: Arquitetura de Software, Microsserviços e Automação de Processos.</b>.
 </p>
 
 <br/>
