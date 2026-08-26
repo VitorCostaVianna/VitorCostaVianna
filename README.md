@@ -4,10 +4,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-costa-vianna-5449832b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-vitor-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:vitorcosta1409@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -16,11 +19,13 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  Software Engineering student at PUC Minas and passionate about solving real-world problems through technology. Currently, I am a <b>Software Engineering Intern at Inter</b>, focusing on improving and maintaining process workflows using the Sydle platform.
-  <br/><br/>
-  On a daily basis, I work directly with various technologies including <b>SQS queues, partner integrations, APIs, and JSON manipulation</b>. My background includes professional and hands-on experience in Full Stack development, building and refactoring REST APIs, and modeling databases.
-  <br/><br/>
-  🚀 <b>🛠 Stack Principal:</b> JavaScript, Java, Spring Boot, Spring Cloud, BPM (Business Process Management), APIs REST e AWS SQS. Interesses: Arquitetura de Software, Microsserviços e Automação de Processos.</b>.
+Backend-focused Software Engineering student at PUC Minas (graduating Dec 2027), currently interning at Inter — one of Brazil's leading digital banks — where I build backend integrations for Corporate Account Opening workflows, including fraud-detection and Anti-Money Laundering (AML) APIs, while consuming high-volume events from Apache Kafka and AWS SQS.
+<br/><br/>
+I build with Java, Spring Boot, and JavaScript, with a growing focus on TypeScript. AWS Certified Cloud Practitioner (CLF-C02).
+<br/><br/>
+🏆 Winner of the "We Make Software" Award (PUC Minas) for Point Dog, a full-stack e-commerce & pet-adoption platform with an AI-powered matching engine.
+<br/><br/>
+📌 Open to remote Software Engineering internships — reach out via LinkedIn or email above.
 </p>
 
 <br/>
@@ -30,31 +35,37 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="90"><b>Backend</b></td>
+      <td align="center" width="110"><b>Languages</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,c,cpp" />
+        <img src="https://skillicons.dev/icons?i=java,js,ts" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90"><b>Frontend</b></td>
+      <td align="center" width="110"><b>Cloud & DevOps</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90"><b>Data</b></td>
+      <td align="center" width="110"><b>Backend</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring,maven" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><b>Frontend</b></td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><b>Data</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=mysql,postgres" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="90"><b>DevOps & Cloud</b></td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,aws,git,github" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="90"><b>Tools</b></td>
+      <td align="center" width="110"><b>Tools</b></td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vscode,postman,idea" />
       </td>
@@ -68,6 +79,21 @@
 
 <div align="center">
   <table>
+    <tr>
+      <td colspan="2" align="center">
+        <h3 align="center">🏆 Point Dog — E-commerce & Pet Adoption Platform</h3>
+        <p align="center">Full-stack platform integrating Mercado Pago for secure checkout and a Spring AI-powered "Smart Match" recommendation engine for pet adoption. ~50% faster catalog reads via Caffeine Cache. Winner of the "We Make Software" Award (PUC Minas, 2025/2).</p>
+        <p align="center">
+          <a href="https://github.com/VitorCostaVianna/VitorCostaVianna/blob/main/assets/point-dog-presentation.pdf">View Presentation (PDF)</a>
+        </p>
+        <p align="center">
+           <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+           <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+      </td>
+    </tr>
     <tr>
       <td width="50%">
         <h3 align="center">AI Recipe & Voice Assistant</h3>
@@ -95,18 +121,18 @@
     <tr>
       <td width="50%">
         <h3 align="center">Investment Aggregator</h3>
-        <p align="center">Backend service integrating with Brapi API to aggregate and analyze financial data for Brazilian stocks.</p>
+        <p align="center">Backend service integrating with the Brapi API to aggregate and analyze financial data for Brazilian stocks.</p>
         <p align="center">
           <a href="https://github.com/VitorCostaVianna/Investment-Aggregator">View Code</a>
         </p>
         <p align="center">
            <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-           <img src="https://img.shields.io/badge/API_Rest-000000?style=flat-square&logo=json&logoColor=white" />
+           <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=json&logoColor=white" />
         </p>
       </td>
       <td width="50%">
         <h3 align="center">Spotify Integration</h3>
-        <p align="center">External API consumption using OpenFeign to interact with Spotify data seamlessly.</p>
+        <p align="center">External API consumption using OpenFeign to interact seamlessly with Spotify data.</p>
         <p align="center">
           <a href="https://github.com/VitorCostaVianna/Spotify-API-Integration-with-OpenFeign.git">View Code</a>
         </p>
@@ -124,14 +150,16 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorCostaVianna&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCostaVianna&layout=compact&theme=dracula&hide_border=false" height="165" alt="top languages" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
-</picture>
+<br/>
 
-###
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
