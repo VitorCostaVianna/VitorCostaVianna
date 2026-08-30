@@ -117,3 +117,10 @@ Building backend integrations for fraud-detection and AML workflows, and growing
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vitor-costa-vianna-5449832b8/" target="_blank">
+    <img src="https://img.shields.io/badge/💬_Get_in_Touch-2dd4a7?style=for-the-badge&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/🌱_Always_Learning-e8734a?style=for-the-badge&logoColor=white" />
+</div>
