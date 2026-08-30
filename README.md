@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vitor-costa-vianna-5449832b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=2dd4a7" />
-  </a>
+<a href="https://portfolio-vitor-psi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=2dd4a7" />
+</a>
   <a href="https://portfolio-vitor-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=2dd4a7" />
   </a>
