@@ -4,13 +4,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-costa-vianna-5449832b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=2dd4a7" />
   </a>
   <a href="https://portfolio-vitor-psi.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=2dd4a7" />
   </a>
   <a href="mailto:vitorcostavianna@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=2dd4a7" />
   </a>
 </div>
 
@@ -117,10 +117,3 @@ Building backend integrations for fraud-detection and AML workflows, and growing
 </div>
 
 <br/>
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorCostaVianna&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCostaVianna&layout=compact&theme=dracula&hide_border=false" height="165" alt="top languages" />
-</div>
