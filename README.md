@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Vitor%20Costa&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20Intern%20@%20Inter&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/main/assets/banner.svg" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
   <a href="https://portfolio-vitor-psi.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:vitorcosta1409@gmail.com">
+  <a href="mailto:vitorcostavianna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -19,13 +19,11 @@
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-Backend-focused Software Engineering student at PUC Minas (graduating Dec 2027), currently interning at Inter — one of Brazil's leading digital banks — where I build backend integrations for Corporate Account Opening workflows, including fraud-detection and Anti-Money Laundering (AML) APIs, while consuming high-volume events from Apache Kafka and AWS SQS.
+<b>Software Engineering Intern</b> — currently at Inter, one of Brazil's leading digital banks
 <br/><br/>
-I build with Java, Spring Boot, and JavaScript, with a growing focus on TypeScript. AWS Certified Cloud Practitioner (CLF-C02).
+Building backend integrations for fraud-detection and AML workflows, and growing into full-stack development with TypeScript
 <br/><br/>
-🏆 Winner of the "We Make Software" Award (PUC Minas) for Point Dog, a full-stack e-commerce & pet-adoption platform with an AI-powered matching engine.
-<br/><br/>
-📌 Open to remote Software Engineering internships — reach out via LinkedIn or email above.
+📍 Open to remote roles — UTC-3
 </p>
 
 <br/>
@@ -35,39 +33,27 @@ I build with Java, Spring Boot, and JavaScript, with a growing focus on TypeScri
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="110"><b>Languages</b></td>
+      <td align="center" width="130"><b>Java</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=java,js,ts" />
+        <img src="https://skillicons.dev/icons?i=java,spring,aws" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="110"><b>Cloud & DevOps</b></td>
+      <td align="center" width="130"><b>TypeScript</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+        <img src="https://skillicons.dev/icons?i=ts,react,nodejs,nextjs,nestjs" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="110"><b>Backend</b></td>
+      <td align="center" width="130"><b>Data</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=spring,maven" />
+        <img src="https://skillicons.dev/icons?i=postgres,mysql" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="110"><b>Frontend</b></td>
+      <td align="center" width="130"><b>Tools</b></td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><b>Data</b></td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><b>Tools</b></td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=vscode,postman,idea" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,postman" />
       </td>
     </tr>
   </table>
@@ -79,21 +65,6 @@ I build with Java, Spring Boot, and JavaScript, with a growing focus on TypeScri
 
 <div align="center">
   <table>
-    <tr>
-      <td colspan="2" align="center">
-        <h3 align="center">🏆 Point Dog — E-commerce & Pet Adoption Platform</h3>
-        <p align="center">Full-stack platform integrating Mercado Pago for secure checkout and a Spring AI-powered "Smart Match" recommendation engine for pet adoption. ~50% faster catalog reads via Caffeine Cache. Winner of the "We Make Software" Award (PUC Minas, 2025/2).</p>
-        <p align="center">
-          <a href="https://github.com/VitorCostaVianna/VitorCostaVianna/blob/main/assets/point-dog-presentation.pdf">View Presentation (PDF)</a>
-        </p>
-        <p align="center">
-           <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-           <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        </p>
-      </td>
-    </tr>
     <tr>
       <td width="50%">
         <h3 align="center">AI Recipe & Voice Assistant</h3>
@@ -152,14 +123,4 @@ I build with Java, Spring Boot, and JavaScript, with a growing focus on TypeScri
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorCostaVianna&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="165" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorCostaVianna&layout=compact&theme=dracula&hide_border=false" height="165" alt="top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorCostaVianna/VitorCostaVianna/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
